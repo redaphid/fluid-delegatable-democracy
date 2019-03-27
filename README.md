@@ -109,7 +109,7 @@ In addition, major alterations to the government are implemented first in a long
 
 
 # here be random ideas
-
+* Ranked choice for issues/laws?
 * How to deal with corruption
   * Rewriting of history.
   * Prove that a vote counted towards what it was intended to.
