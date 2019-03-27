@@ -34,6 +34,7 @@ then the fairest government would be a direct democracy for every atomic action 
 ## Optimizations and Compromises, Given the Givens Aren't True
 
 ### Reasoning Ability
+_(this section sounds bad at first. Stick with me, though)_
 * Below a certain ability to reason, a citizen's vote can have a harmful effect on society.
 * The harmful votes should be blocked by restricting who can vote if their reasoning ability is below a certain threshold.
 * Many versions of this assesment may easily be subjective discriminatory, or wrong. Restrictions should be added with extreme caution, and may require a Direct Democratic Vote (more on this later).
@@ -44,34 +45,77 @@ then the fairest government would be a direct democracy for every atomic action 
 * Children under the age of 18 cannot vote.
 
 
-======== somewhere else ========
-  * Votes can be delegated to anyone who allows it.
-  * Delegation can be changed at very frequent intervals (monthly?)
+### Solutions for Everything Else
+Since citizens may not feel that they have the time, interest, or education necessary to make the best choice at for government action, they may want to offload some of the responsibility of government to someone else. Because some people are incentivized to coerce other people to vote a certain way, we must take steps to maintain anonymity and prevent such coersion.
 
-* Citizens can decide to accept delegations.
-  * People can choose to display that they are accepting delegations
-  * ~~These delegations can be accepted by arbitrary rules.~~
-  * ~~People can choose to display the rules.~~
-  * May only allow all-or-nothing delegate acceptance, to prevent some kind of discrimination.
-  * Upon receiving delegations, all you are notified of is the count, which may be delayed.
-  * It's possible you don't even know the count? No.
-  * Citizens delegating their vote can see what the delegated voted for.
+#### Transferring of Voting Power ("Delegation")
+
+##### Giving of Voting Power
+* A citizen can decide to transfer their voting power to another citizen. This is called "delegation". 
+* This may be because they do not have the time to invest to research a particular topic, or trust the judgement of someone else more. 
+* _Allow conditional delegation based on rules? This allows for different branches of government implicitly_
+* A citizen's vote is always anonymous
+* _A citizen may always verify that what their vote went towards?_
+* A delegated vote may always be transferred back to the citizen that owned it.
+  * This may be at an interval (monthly?) to avoid last-minute tricks.
+  * This may be initiated by either the giver or receiver of the delegation.    
+
+##### Receiving of Voting Power
+* A citizen may decide to accept or reject delegations. 
+* If a delegation is accepted, the citizen giving their vote away will see what outcome their vote went towards. 
+* This makes the receiver of a delegated vote's voting activity transparent to the citizen giving the voting power to them.
+* ~~These delegations can be accepted by arbitrary rules.~~
+* ~~People can choose to display the rules.~~
+* May only allow all-or-nothing delegate acceptance, to prevent some kind of discrimination.
+* A receiver of voting power can always return the votes to the owner.
+* A receiver of voting power will only know their aggregate voting strength, and nothing about who gave them their voting power.
+  * This is to protect the privacy of the citizen giving their voting power.
 
 * A citizen with delegated votes can delegate their delegated votes.
-  * Maybe this is opt in for recursion?
-  * Opt in to both displaying and accepting all anonymous aspects of voting bools and ints.
+    * This allows concentration of voting power in a recursive way
+    * Any "owner" of a vote along the current chain of citizens it was delegated to can see what their vote counted towards
+    * Any "owner" of a vote can choose whether their delegated vote can be delegated again.
+
+##### Voting Power Public Information
+* People can choose to display that they are accepting delegations.
+  * _Maybe this is opt in for recursion?_
+  * Opt in to both displaying and accepting anonymous voting actions, and a few statuses.
   * These privacy settings can only be changed at a frequent (monthly?) review, during which time other laws aren't passed
   * Like defragging a hard drive.
   * People can decide to choose to display their voting power publicly.
-  * Maybe with a minimum of 1?
-  * Signable. Everyone has public keys that are not known to anyone but them by default. But it must be knowable that it is from a single person from birth, who is not dead.
+    * _Maybe with a minimum of 1?_
+  * _Signable. Everyone has public keys that are not known to anyone but them by default. But it must be knowable that it is from a single person from birth, who is not dead_
 * Crazy : chips like mine, scanned on death, death certificate signed by private key of deceased "public figure" (could be a requirement of a coroner)
 
-* Change of core rules requires no delegation, 2/3 majority, long test drive period, with very frequent revert points (maybe yearly:monthly?)
-  * This includes this initial system, assuming it's a branch of direct democracy backing the existing US legal system. (but this would be considered a catastrophic failure requiring the constant attention of the nation in order to avoid tyranny, explicitly)
-  * This is based on the core philosophy that, given that time, interest, education, and flaws in reasoning are not issues, the fairest possible democracy is a direct democracy.
-  * "hot", easy to revert laws that get "cooler" and "more solid" over time.
+### Modifying the Core Government
+Change of core rules requires a "Direct Democratic Vote", outlined below.
 
+##### Direct Democratic Vote
+A "Direct Democratic Vote" is a vote undertaken with very dangerous or extreme alterations are proposed that affect the working of the Core Government. It exists because the delegation part of the voting system is an optimization that may not precisely capture the will of the people. A more rigorous voting process mitigates some unforseen flaw in these rules from causing poor representation, and allows for the fixing of the flaw. It's possible that other situations will need to follow this protocol as well. a Direct Democratic Vote differs from a regular vote in the following ways:
+
+* No delegation allowed. 
+  * The citizens that are interested in the government action must familiarize themselves with it directly. This avoids some unforseen weakness or ursurpation of the system.
+* 2/3 Majority
+  * Alterations to the Core Government have great capacity for harm. We must make sure that at least 2/3 of interested citizens agree with the change.
+  * That is, 2/3 of the people who voted must have voted for the alteration.
+  * It should be considered a major patriotic duty to participate in this
+
+In addition, major alterations to the government are implemented first in a long test-drive period, during which votes to alter the new alterations are held at first quite frequently, then less and less often over time.
+
+* _Maybe 50% of votes are required to repeal the new alteration?_
+* _Maybe this is all government actions?_
+
+* This includes this initial system, assuming it's a branch of direct democracy backing the existing US legal system. (but reverting would be considered a catastrophic failure requiring the constant attention of the nation in order to avoid tyranny, explicitly)    
+
+
+# here be random ideas
+
+* How to deal with corruption
+  * Rewriting of history.
+  * Prove that a vote counted towards what it was intended to.
+    * _Private key signing type of thing?_
+  * Create strong disincentives for vote manipulation, coersion, or detection.
+    * Both systemic and punitive consequences.
 
 * Country - within - a - country cult
     1. Business
