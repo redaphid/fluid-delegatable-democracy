@@ -4,22 +4,26 @@ The following will try define why direct democracy would be fairest, given no hu
 ## Rationale
 Given if all people were equal in terms of  the following:
 * reasoning ability
+* opinion
 * education
 * intelligence
 * interest   
-* interest 
 * rationality of opinion
-* An ungamable, uncoerceable system
 
-and had infinite time to thoroughly examine all the consequences of a government action, the fairest government is a direct democracy for every atomic action a government could perform, and the result of every government action vote would be unanimous.
+and that the following is true of the system:
+* ungameable
+* uncoercable
+* everyone has infinite time to thoroughly examine the consequences of every government action.
+
+then the fairest government would be a direct democracy for every atomic action a government could perform, and the result of every vote would be unanimous.
 
 ## Defining the Ideal Direct Democracy If the Givens Were True
 
-* Everybody has one vode
+* Everybody has one vote
 * That vote applies to every law
-  * That vote may apply to court cases?
-  * Maybe every court case is a law?
-    * Even restraining orders and personal stuff?
+  * _That vote may apply to court cases?_
+  * _Maybe every court case is a law?_
+    * _Even restraining orders and personal stuff?_
 * Votes can never be forced or coerced.
 
 ## The Problem
@@ -28,18 +32,19 @@ and had infinite time to thoroughly examine all the consequences of a government
 
 
 ## Optimizations and Compromises, Given the Givens Aren't True
+
 ### Reasoning Ability
 * Below a certain ability to reason, a citizen's vote can have a harmful effect on society.
-  * The harmful votes should be blocked by restricting who can vote if their reasoning ability is below a certain threshold.
-  * Many versions of this assesment may easily be subjective discriminatory, or wrong.
-    * A non-controversial one is that reasoning ability varies with age.
-      * 18 seems to be a generally accepted current age after which reasoning ability is sufficient to vote.
-      * Children under the age of 18 cannot vote.
-### 
-* Every person over the age of 18 has exactly 1 vote
-  * That vote can be applied to any laws
-  * Maybe even cases somehow? Randomly?
-  * Maybe these are 2 different kinds of votes?
+* The harmful votes should be blocked by restricting who can vote if their reasoning ability is below a certain threshold.
+* Many versions of this assesment may easily be subjective discriminatory, or wrong. Restrictions should be added with extreme caution, and may require a Direct Democratic Vote (more on this later).
+
+#### Restriction of Voting Rights Due To Reasoning Ability
+* Reasoning ability varies with age.
+* 18 seems to be a generally accepted current age after which reasoning ability is sufficient to vote.
+* Children under the age of 18 cannot vote.
+
+
+======== somewhere else ========
   * Votes can be delegated to anyone who allows it.
   * Delegation can be changed at very frequent intervals (monthly?)
 
