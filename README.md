@@ -1,3 +1,11 @@
+# Fluid Delegatable Democracy
+
+## Rationale
+  Given if all people were equal in terms of reasoning ability, education, and intelligence, and had infinite time and interest to thoroughly examine all the consequences of a government action, the fairest government is a direct democracy of every minute action a government could perform.
+  
+  But the givens are not true, so we must devise a system that approximates the above, given the constraints of the real world.
+
+## Optimizations and Compromises
 * Every person over the age of 18 has exactly 1 vote
   * That vote can be applied to any laws
   * Maybe even cases somehow? Randomly?
@@ -27,7 +35,7 @@
 * Change of core rules requires no delegation, 2/3 majority, long test drive period, with very frequent revert points (maybe yearly:monthly?)
   * This includes this initial system, assuming it's a branch of direct democracy backing the existing US legal system. (but this would be considered a catastrophic failure requiring the constant attention of the nation in order to avoid tyranny, explicitly)
   * This is based on the core philosophy that, given that time, interest, education, and flaws in reasoning are not issues, the fairest possible democracy is a direct democracy.
-  * "hot", easy to revert laws that get "cooler" and "more solid" over time. March 23rd 2019
+  * "hot", easy to revert laws that get "cooler" and "more solid" over time.
 
 
 * Country - within - a - country cult
