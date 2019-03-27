@@ -40,6 +40,7 @@ _(this section sounds bad at first. Stick with me, though)_
 * Below a certain ability to reason, a citizen's vote can have a harmful effect on society.
 * The harmful votes should be blocked by restricting who can vote if their reasoning ability is below a certain threshold.
 * Many versions of this assesment may easily be subjective discriminatory, or wrong. Restrictions should be added with extreme caution, and may require a Direct Democratic Vote (more on this later).
+* It is very possible that this only applies to people to young to vote. Don't want to encourage elitism.
 
 #### Restriction of Voting Rights Due To Reasoning Ability
 * Reasoning ability varies with age.
