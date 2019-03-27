@@ -140,3 +140,4 @@ In addition, major alterations to the government are implemented first in a long
   * Delegating a vote may also delegate this power.
   * Submitting a government action can only be done at a long interval (Monthly? Yearly?)
   * The more "voting power" you have, the shorter the interval is.
+* At any time, you can see where all your previous voting power went, and who is responsible for casting it (all of the delegatees). This needs to be signed or in some way extremely verifiable and widely distributed.
