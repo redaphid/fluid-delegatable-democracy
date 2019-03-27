@@ -113,6 +113,12 @@ In addition, major alterations to the government are implemented first in a long
 
 # here be random ideas
 * Ranked choice for issues/laws?
+* Need a way to map the existing US government into this system as closely as possible, including pre-delegating votes to current elected officials, and retroactively approving current laws in this system.
+  
+* Citizens can then modify their delegations, and voting will happen in the new way, allowing the US system to be slowly modified.
+  
+* Critical thinking and education has to be a huge patriotic thing.
+  
 * How to deal with corruption
   * Rewriting of history.
   * Prove that a vote counted towards what it was intended to.
