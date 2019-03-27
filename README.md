@@ -1,11 +1,28 @@
 # Fluid Delegatable Democracy
+The following will try define why direct democracy would be fairest, given no human flaws or physical limitations. Then list each flaw, why it exists, and what we can do about it.
 
 ## Rationale
-  Given if all people were equal in terms of reasoning ability, education, and intelligence, and had infinite time and interest to thoroughly examine all the consequences of a government action, the fairest government is a direct democracy of every minute action a government could perform.
-  
+  Given if all people were equal in terms of  the following:
+  * reasoning ability
+  * education
+  * intelligence
+  * interest   
+  * interest 
+  * rationality of opinion
+
+and had infinite time to thoroughly examine all the consequences of a government action, the fairest government is a direct democracy for every atomic action a government could perform, and the result of every government action vote would be unanimous.
+
   But the givens are not true, so we must devise a system that approximates the above, given the constraints of the real world.
 
-## Optimizations and Compromises
+## Optimizations and Compromises, Given the Givens Aren't True
+### Reasoning Ability
+* Below a certain ability to reason, a citizen's vote can have a harmful effect on society.
+  * The harmful votes should be blocked by restricting who can vote if their reasoning ability is below a certain threshold.
+  * Many versions of this assesment may easily be subjective discriminatory, or wrong.
+    * A non-controversial one is that reasoning ability varies with age.
+      * 18 seems to be a generally accepted current age after which reasoning ability is sufficient to vote.
+      * Children under the age of 18 cannot vote.
+### 
 * Every person over the age of 18 has exactly 1 vote
   * That vote can be applied to any laws
   * Maybe even cases somehow? Randomly?
