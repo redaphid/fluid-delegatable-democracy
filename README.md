@@ -94,7 +94,7 @@ Since citizens may not feel that they have the time, interest, or education nece
 Change of core rules requires a "Direct Democratic Vote", outlined below.
 
 ##### Direct Democratic Vote
-A "Direct Democratic Vote" is a vote undertaken with very dangerous or extreme alterations are proposed that affect the working of the Core Government. It exists because the delegation part of the voting system is an optimization that may not precisely capture the will of the people. A more rigorous voting process mitigates some unforseen flaw in these rules from causing poor representation, and allows for the fixing of the flaw. It's possible that other situations will need to follow this protocol as well. a Direct Democratic Vote differs from a regular vote in the following ways:
+A "Direct Democratic Vote" is a vote undertaken with very dangerous or extreme alterations are proposed that affect the working of the Core Government. It exists because the delegation part of the voting system is an optimization that may not precisely capture the will of the people. A more rigorous voting process mitigates some unforseen flaw in these rules from causing poor representation by disabling most of the rules, and allows for the fixing of the flaw. It's possible that other situations will need to follow this protocol as well. a Direct Democratic Vote differs from a regular vote in the following ways:
 
 * No delegation allowed. 
   * The citizens that are interested in the government action must familiarize themselves with it directly. This avoids some unforseen weakness or ursurpation of the system.
