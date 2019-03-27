@@ -3,6 +3,8 @@ _Note: Some of this language may sound like I'm trying to be authoritative here.
 # Fluid Delegatable Democracy
 The following will try define why direct democracy would be fairest, given no human flaws or physical limitations. Then list each flaw, why it exists, and what we can do about it.
 
+Sooo it looks like an extremely similar concept exists. It even has a similar name: [Delegative Democracy](https://en.m.wikipedia.org/wiki/Delegative_democracy). I swear I hadn't heard of it before. 
+
 ## Rationale
 Given if all people were equal in terms of  the following:
 * reasoning ability
