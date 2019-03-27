@@ -2,17 +2,30 @@
 The following will try define why direct democracy would be fairest, given no human flaws or physical limitations. Then list each flaw, why it exists, and what we can do about it.
 
 ## Rationale
-  Given if all people were equal in terms of  the following:
-  * reasoning ability
-  * education
-  * intelligence
-  * interest   
-  * interest 
-  * rationality of opinion
+Given if all people were equal in terms of  the following:
+* reasoning ability
+* education
+* intelligence
+* interest   
+* interest 
+* rationality of opinion
+* An ungamable, uncoerceable system
 
 and had infinite time to thoroughly examine all the consequences of a government action, the fairest government is a direct democracy for every atomic action a government could perform, and the result of every government action vote would be unanimous.
 
-  But the givens are not true, so we must devise a system that approximates the above, given the constraints of the real world.
+## Defining the Ideal Direct Democracy If the Givens Were True
+
+* Everybody has one vode
+* That vote applies to every law
+  * That vote may apply to court cases?
+  * Maybe every court case is a law?
+    * Even restraining orders and personal stuff?
+* Votes can never be forced or coerced.
+
+## The Problem
+
+  The givens are not true, so we must devise a system that approximates the above, given the constraints of the real world.
+
 
 ## Optimizations and Compromises, Given the Givens Aren't True
 ### Reasoning Ability
